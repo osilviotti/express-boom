@@ -1,6 +1,6 @@
 {
   "name": "express-boom",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "description": "Boom response objects in Express",
   "main": "index.js",
   "scripts": {
@@ -15,18 +15,18 @@
   "author": "Scott Corgan",
   "license": "MIT",
   "dependencies": {
-    "@hapi/boom": "^7.4.2"
+    "@hapi/boom": "^9.1.0"
   },
   "devDependencies": {
-    "mocha": "^6.0.1",
+    "mocha": "^8.1.1",
     "node-mocks-http": "^1.7.3"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/scottcorgan/express-boom.git"
+    "url": "git://github.com/osilviotti/express-boom.git"
   },
   "bugs": {
-    "url": "https://github.com/scottcorgan/express-boom/issues"
+    "url": "https://github.com/osilviotti/express-boom/issues"
   },
-  "homepage": "https://github.com/scottcorgan/express-boom"
+  "homepage": "https://github.com/osilviotti/express-boom"
 }
